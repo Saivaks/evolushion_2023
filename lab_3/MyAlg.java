@@ -12,8 +12,8 @@ import java.util.Random;
 public class MyAlg {
 
     public static void main(String[] args) {
-        int dimension = 100; // dimension of problem
-        int populationSize = 99; // size of population
+        int dimension = 50; // dimension of problem
+        int populationSize = 10; // size of population
         int generations = 9999; // number of generations
 
         Random random = new Random(); // random
